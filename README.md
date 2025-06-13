@@ -1,7 +1,7 @@
 
-# Carrito de compras con Arduino y Wi-Fi
+# Carrito ESP32 y Wi-Fi
 
-Este proyecto consiste en un carrito de compras que se controla a través de un servidor web utilizando el módulo Wi-Fi de ESP32. El carrito tiene dos motores controlados por un L298N, dos sensores ultrasónicos para detectar obstáculos y un buzzer para alertar al usuario. También tiene un sensor de luz para detectar la iluminación del entorno y encender o apagar los led de los lados correspondientes.
+Este proyecto consiste en un carrito  que se controla a través de un servidor web utilizando el módulo Wi-Fi de ESP32. El carrito tiene dos motores controlados por un L298N, dos sensores ultrasónicos para detectar obstáculos y un buzzer para alertar al usuario. También tiene un sensor de luz para detectar la iluminación del entorno y encender o apagar los led de los lados correspondientes.
 
 ## Componentes
 
